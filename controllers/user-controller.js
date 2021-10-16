@@ -1,6 +1,7 @@
 const { User } = require('../models');
 
 
+// -----------   /api/users   -------------------------------
 const userController = {
     // GET all users
     getAllUsers(req, res) {
