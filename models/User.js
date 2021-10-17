@@ -24,17 +24,17 @@ const UserSchema = new Schema({
         get: (createdAtVal) => dateFormat(createdAtVal)
     },
 
-    thoughts: [
-        {
-            type: Schema.Types.ObjectId,
-            ref: 'Thought'
-        }
-    ],
-
     friends: [
         {
             type: Schema.Types.ObjectId,
             ref: 'User'
+        }
+    ],
+
+    thoughts: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Thought'
         }
     ],
 },
