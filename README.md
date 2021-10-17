@@ -119,7 +119,7 @@ Video 2 :  https://watch.screencastify.com/v/hTAyQaTI5uSYFxYVaWFV
 
 ## Below is the screenshot and Deployed application of the Project as per client request ## 
 
-![Screenshot of insomnia](./public/assets/images/picture.jpg)
+![Screenshot of insomnia](./public/assets/images/picture.JPEG)
 
 
 [Please click here to deploy application in Github](https://github.com/miraj00/social_media_api)
